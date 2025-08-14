@@ -20,7 +20,7 @@ Dehazing: [RESIDE](https://sites.google.com/view/reside-dehaze-datasets/reside-v
 
 ## Demo
 
-You could download the pre-trained model from [Baidu Netdisk](https://pan.baidu.com/s/1EebNU8zxfnkXkeo4kuyg8w) (password: ckpt). Remember to put the pre-trained model into ckpt/
+You could download the pre-trained model from [Quark](https://pan.quark.cn/s/6cb9a260af4b) (password: 1P6k). Remember to put the pre-trained model into ckpt/
 
 If you only need the visual results, you could put the test images into test/demo/ and use the following command to restore the test image:
 
