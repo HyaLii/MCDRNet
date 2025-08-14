@@ -8,7 +8,7 @@ If you want to compute the psnr and ssim reported in the paper, please download 
   `├──`[input](https://sites.google.com/view/reside-dehaze-datasets/reside-v0)  <br/>
   `└──`target <br/>
 
-For denoise dir, you could just put the clean images (e.g, BSD68 or Urban100) into the corresponding directory. In the paper, we test our AirNet on BSD68 and Urban100.
+For denoise dir, you could just put the clean images (e.g, BSD68) into the corresponding directory. In the paper, we test our AirNet on BSD68.
 
 For deraining, we test our AirNet on Rain100L. 
 
