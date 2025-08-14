@@ -1,7 +1,7 @@
 If you want to compute the psnr and ssim reported in the paper, please download datasets from the following links and place them in this directory. Your directory tree should look like this
 
 `derain` <br/>
-  `├──`[input]([Derain](https://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html))  <br/>
+  `├──`[input](https://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)  <br/>
   `└──`target <br/>
 
 `dehaze` <br/>
