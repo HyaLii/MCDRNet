@@ -8,10 +8,10 @@ If you want to compute the psnr and ssim reported in the paper, please download 
   `├──`[input](https://sites.google.com/view/reside-dehaze-datasets/reside-v0)  <br/>
   `└──`target <br/>
 
-For denoise dir, you could just put the clean images (e.g, BSD68) into the corresponding directory. In the paper, we test our AirNet on BSD68.
+For denoise dir, you could just put the clean images (e.g, BSD68) into the corresponding directory. In the paper, we test our MCDRNet on BSD68.
 
-For deraining, we test our AirNet on Rain100L. 
+For deraining, we test our MCDRNett on Rain100L. 
 
-For dehazing, we test our AirNet on SOTS outdoor. 
+For dehazing, we test our MCDRNet on SOTS outdoor. 
 
 If you do not want to get the qualitative results only, please put your test images into test/, and run demo.py to compute the qualitative results only.
