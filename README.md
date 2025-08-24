@@ -12,13 +12,13 @@ PyTorch implementation for A Multi-Granularity Approach for All-in-One Image Res
 
 You could find the dataset we used in the paper at following:
 
-Denoising: [BSD400](https://drive.google.com/file/d/1idKFDkAHJGAFDn1OyXZxsTbOSBx9GS8N/view?usp=sharing), [WED](https://ece.uwaterloo.ca/~k29ma/exploration/), [BSD68]
+Denoising: [BSD400](https://drive.google.com/file/d/1idKFDkAHJGAFDn1OyXZxsTbOSBx9GS8N/view?usp=sharing), [WED](https://ece.uwaterloo.ca/~k29ma/exploration/), BSD68
 
 Deraining: [Train100L&Rain100L](https://drive.google.com/drive/folders/1-_Tw-LHJF4vh8fpogKgZx1EQ9MhsJI_f?usp=sharing)
 
 Dehazing: [RESIDE](https://sites.google.com/view/reside-dehaze-datasets/reside-v0) (OTS)
 
-where, the BSD68 dataset has been uploaded to the teset/denoise.
+where, the BSD68 has been uploaded to the test/denoise.
 
 ## Demo
 
