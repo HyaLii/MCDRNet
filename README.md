@@ -1,6 +1,6 @@
-# MCDRNet: Multi-granularity Contrast-guided Degradation Reconstruction Network for All-in-one Image Restoration!
+# MCDRNet: A Multi-Granularity Approach for All-in-One Image Restoration via Contrast-Guided Degradation Reconstruction!
 
-PyTorch implementation for Multi-granularity Contrast-guided Degradation Reconstruction Network for All-in-one Image Restoration (MCDRNet) 
+PyTorch implementation for A Multi-Granularity Approach for All-in-One Image Restoration via Contrast-Guided Degradation Reconstruction (MCDRNet) 
 
 ## Dependencies
 
